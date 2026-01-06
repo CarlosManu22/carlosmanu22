@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi 💻👩‍💻:
 Joven de 23 años con habilidades en desarrollo web y gestión de bases de datos. Experiencia en creación de páginas web (individual y en equipo), dominio de Python, C++, SQL, MySQL y HTML/CSS con énfasis en diseño frontend y optimización de bases de datos. Manejo de Power BI, Microsoft Access, máquinas virtuales, WordPress y conocimientos básicos en Android Studio. Colaborador proactivo, autodidacta y orientado a la mejora continua de habilidades técnicas.<br>
 
 
